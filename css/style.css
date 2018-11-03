@@ -1,0 +1,15 @@
+body {
+	background: black;
+}
+
+#beallitasok {
+    width: 50%;
+	border: 15px solid antiquewhite;
+	margin: 0 auto;
+}
+
+h1 {
+	color: antiquewhite;
+	text-align: center;
+	margin: 30px 0;
+}
